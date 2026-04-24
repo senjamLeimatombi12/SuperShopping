@@ -1,0 +1,2 @@
+# SuperShopping
+Desktop application
